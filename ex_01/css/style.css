@@ -3,36 +3,35 @@ body {color: #C4CBCA;
 }
 
 h1 {font-family: Georgia;
-    font-weight: bold;
-    font-size: 85pt;  
+    font-weight: 900;
+    font-size: 95pt;  
     color: #3CBBB1;
     text-align: center;
-    margin: 0px 0px 0px 500px 
 }
 h2 {font-family: Georgia;
-    font-weight: normal;
-    font-size: 35pt;  
+    font-weight: 400;
+    font-size: 55pt;  
     color: #EE4266;
     margin: 0px 0px 0px 500px 
 }
 h3 {font-family: Georgia;
-    font-weight: bold;
-    font-size: 20pt; 
+    font-weight: 600;
+    font-size: 35pt; 
     color: #2A1E5C;
 }
 h4 {font-family: Georgia;
-    font-weight: thin;
+    font-weight: 100;
     color: #EE4266;
 }
 img {display: block;
      margin: auto;
 }
 p {font-family: Helvetica;
-   font-weight: normal;
+   font-weight: 300;
    color: #0A0F0D;
    margin: 50px 200px 10px 130px; 
 }
 a {font-family: Helvetica;
-   font-weight: light;
+   font-weight: 200;
    color: #EE4266;
 }
