@@ -58,6 +58,9 @@ aside{
 a{
 	color: #43020b;
 }
+#hero{
+	width: 100%;
+}
 #intro {
 	font-family: Cairo, sans-serif;
 	font-weight: 600;
@@ -99,9 +102,7 @@ a{
 	line-height: 1.5em;
 }
 #two_columns {
-	padding: 20px;
-}
-.banners {
+	padding: 20px; 
 	margin: auto;
 	width: 100%;
 	height: auto;
